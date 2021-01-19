@@ -1,0 +1,6 @@
+{
+"version": 2,
+"routes": [
+ {"src": "/(.*)","dest": "http://www1.tszq.org/$1"}
+]
+}
